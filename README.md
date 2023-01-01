@@ -1,11 +1,11 @@
-### Olá Mundo, Wellington Lucas aqui👋
+### Hello World, Wellington Lucas here👋
 
 <hr>
 
-- 🔭 Trabalhando atualmente com desenvolvimento Front-end
-- 🌱 Estou aprendendo JavaScript
-- 👯 Estou querendo entrar para o mercado de Freelance
-- 💬 Me contate pelo email: lutaxb@gmail.com
+- 🔭 Actually working with front-end development
+- 🌱 I'm learning JavaScript
+- 👯 I'd like to enter the Freelance field
+- 💬 Contact me with email: lutaxb@gmail.com
 
 <hr>
 
